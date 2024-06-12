@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "dotenv": "^16.4.5",
     "ethers": "^6.13.0",
     "fs-extra": "^11.2.0",
     "solc": "0.8.19"
